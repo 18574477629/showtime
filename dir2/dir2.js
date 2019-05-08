@@ -1,1 +1,1 @@
-console.log("dir2")
+console.log("di2")
